@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Nombre hola" />
+        android:text="Nombre hola Mundo" />
 
     <EditText
         android:layout_width="match_parent"
